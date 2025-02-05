@@ -23,7 +23,7 @@ pip install requests
 
 3. 克隆仓库或下载脚本文件：
 ```bash
-git clone https://github.com/yourusername/cloudflare-email-forwarding.git
+git clone https://github.com/zopenb/CloudFlare_Email_Create.git
 ```
 
 ## 配置说明
