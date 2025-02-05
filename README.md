@@ -1,4 +1,4 @@
-# Cloudflare 邮箱转发规则配置工具
+# Cloudflare邮箱批量创建
 
 ![Python版本](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![依赖项](https://img.shields.io/badge/依赖项-requests-green)
