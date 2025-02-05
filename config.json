@@ -1,0 +1,15 @@
+{
+    "zone_id": "your_zone_id",
+    "api_key": "your_api_key",
+    "account_email": "your_account@example.com",
+    "emails": [
+        {
+            "email": "hello@yourdomain.com",
+            "forward_to": "yourpersonal@email.com"
+        },
+        {
+            "email": "support@yourdomain.com",
+            "forward_to": "team@company.com"
+        }
+    ]
+}
