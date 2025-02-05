@@ -108,4 +108,4 @@ export DEBUG_MODE=1 && python setup_emails.py
 欢迎提交Pull Request。重大更改请先创建Issue讨论。
 
 ## 许可证
-[MIT License](LICENSE) © 2023 Your Name
+[MIT License](LICENSE) © 2023 zopenb
